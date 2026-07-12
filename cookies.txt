@@ -1,0 +1,13 @@
+# Netscape HTTP Cookie File
+# Generated for DarkRoot Instagram Bot
+# https://curl.se/docs/http-cookies.html
+
+.instagram.com	TRUE	/	TRUE	2147483647	csrftoken	Bq4p2OMH1kULONgkHB3tJx
+.instagram.com	TRUE	/	TRUE	2147483647	datr	_kPwaa45_z0rezZDBv0F7MwM
+.instagram.com	TRUE	/	TRUE	2147483647	ig_did	8E8AA680-B512-498D-BC2F-D7EF4994B35C
+.instagram.com	TRUE	/	FALSE	2147483647	wd	360x699
+.instagram.com	TRUE	/	FALSE	2147483647	dpr	2
+.instagram.com	TRUE	/	TRUE	2147483647	mid	afBD_gABAAEmG_U1hIZLOZFILOjM
+.instagram.com	TRUE	/	TRUE	2147483647	ds_user_id	77376628065
+.instagram.com	TRUE	/	TRUE	2147483647	sessionid	77376628065%3AjVZoa9QM5TeXRq%3A29%3AAYhJu7Sa6sy9ygy1nnpeCCqkKYQN1-_pQa_BsMEhjg
+.instagram.com	TRUE	/	TRUE	2147483647	rur	"RVA\05477376628065\0541808890176:01fe25abfe8eb99eb5ab03ea32883a93db4d5a835ca8c9e34477ffb4e5feda19efa1ba63"
